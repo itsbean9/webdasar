@@ -1,0 +1,11 @@
+label{
+    color: blueviolet;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+#table-yuk {
+    margin: 20px 0px 10px 50px;
+    background-color: burlywood;
+    padding: 20px;
+}
