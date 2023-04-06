@@ -3,7 +3,7 @@
 }
 
 body {
-    background: url("./images/pic\ 1.jpg");
+    background: url("./my\ images/mybg.jpg");
 }
 
 
@@ -27,7 +27,7 @@ label{
 }
 .box {
     width: 400px;
-    background-color:coral;
+    background-color:aqua;
     display: inline;
     float: left;
     margin-right: 10px;
